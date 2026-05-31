@@ -110,6 +110,7 @@ class Edge {
 
 ## Output:
 
+<img width="662" height="482" alt="output5" src="https://github.com/user-attachments/assets/9b210fd0-ccdd-4028-8517-1f0d325851a2" />
 
 
 ## Result:
