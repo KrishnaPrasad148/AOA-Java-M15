@@ -101,6 +101,7 @@ public class GardenFlowerPlanner {
 
 ## Output:
 
+<img width="403" height="461" alt="output4" src="https://github.com/user-attachments/assets/4eb6727e-2ef4-4618-a922-d049fb7fa54f" />
 
 
 ## Result:
