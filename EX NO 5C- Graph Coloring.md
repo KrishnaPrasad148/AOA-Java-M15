@@ -98,6 +98,7 @@ public class RadioTowerChannelAssignment {
 
 ## Output:
 
+<img width="353" height="492" alt="output3" src="https://github.com/user-attachments/assets/aac1e0cc-fe8f-49da-9096-dccfdf123fd8" />
 
 
 ## Result:
