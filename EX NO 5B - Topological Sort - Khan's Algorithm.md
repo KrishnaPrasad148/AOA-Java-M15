@@ -106,6 +106,7 @@ public class prog{
 
 ## Output:
 
+<img width="721" height="528" alt="output2" src="https://github.com/user-attachments/assets/109ad369-e1da-4310-ac94-4096241a3a7c" />
 
 
 ## Result:
