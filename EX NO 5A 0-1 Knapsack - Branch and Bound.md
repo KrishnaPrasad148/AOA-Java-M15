@@ -131,6 +131,7 @@ public class StartupShowcaseOptimizer {
 
 ## Output:
 
+<img width="364" height="228" alt="output1" src="https://github.com/user-attachments/assets/8b7ff236-a57b-4ccd-aeb6-0f025f674d00" />
 
 
 ## Result:
